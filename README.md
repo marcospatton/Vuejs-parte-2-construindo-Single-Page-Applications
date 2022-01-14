@@ -1,3 +1,8 @@
+
+<img src="https://github.com/marcospatton/Vue.js-parte-1-construindo-Single-Page-Applications/blob/main/src/assets/logo.png"></a>
+<br><br>
+
+
 # alurapic
 
 > A Vue.js project
@@ -18,6 +23,3 @@ npm run build
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-
-<img src="https://github.com/marcospatton/Vue.js-parte-1-construindo-Single-Page-Applications/blob/main/src/assets/logo.png"></a>
-<br><br>
